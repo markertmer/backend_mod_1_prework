@@ -7,7 +7,7 @@
 ### If Statements
 
 1. What is a conditional statement? Give three examples.
-- Conditionals  Examples:
+- Conditionals are statements that can be evaluated as `true` or `false`. Examples:
 - `cups_of_flour >= 2`
 - `has_sauce == true`
 - `dogs > 0 && clean_floor == false`
