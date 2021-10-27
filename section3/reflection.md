@@ -12,7 +12,7 @@
 - A hash is a collection of data that all pertains to one object, such as an email, an IG post, an activity on Strava, etc. Each hash consists of keys and values. The keys refer to the type of attribute, such as a timestamp or an image location, while the value gives the specific information for that key.
 
 1. In the space below, create a Hash stored to a variable named `pet_store`.  This hash should hold an inventory of items and the number of that item that you might find at a pet store.
-```
+```ruby
 pet_store = {
   bird_seed_bags: 7,
   dog_food_bags: 22,

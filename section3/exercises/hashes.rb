@@ -44,13 +44,21 @@ puts zoo
 # Declare a variable that stores hash. Each key should be an attribute of an email and each
 # value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
 puts '-' * 10
-email_example = {from_address: 'jerry@place.com', timestamp: '08:56:12', date: '12/27/2004', subject: 'Hello from an old friend!', body: 'Hi Francine, this is Jerry! How have you been?'}
+email_example = {
+  from_address: 'jerry@place.com',
+  timestamp: '08:56:12',
+  date: '12/27/2004',
+  subject: 'Hello from an old friend!',
+  body: 'Hi Francine, this is Jerry! How have you been?'
+}
 # Write code that prints your email hash to the terminal.
-
+puts '-' * 10
+print email_example
 
 # Write code that prints all of the 'keys' of the email hash
 # you created above:
 # YOUR CODE HERE
+puts '-' * 10
 puts email_example.keys
 # Write code that prints all of the 'values' of the email hash
 # you created above:
@@ -67,9 +75,7 @@ puts email_example.values
 
 # Check out the following example of an array of Instagram posts:
 
-
 # posts = ["image at beach", "holiday party", "adorable puppy", "video of cute baby"];
-
 
 # Frankly, that was a very simplified version of the Array the Instagram developers have
 # written and work with. Still probably slightly simplified as we don't know what their code
@@ -130,4 +136,4 @@ emails = [
     body: "Hi honey, we haven't heard from you in a while. When's a good time to call?"
   }
 ]
-puts emails
+print emails

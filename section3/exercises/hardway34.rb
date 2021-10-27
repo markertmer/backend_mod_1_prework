@@ -17,5 +17,5 @@ pop_stars.each do |i|
   puts "#{i} is number #{position} on the list with an index of #{index}."
 end
 
-# study drill answers
-# 1. Years are ordinal, so as soon as it becomes Jan. 1, the year changes from 2009 to 2010.
+################# STUDY DRILL ANSWER ##############################
+#1: Years are ordinal, so as soon as it becomes Jan. 1, the year changes from 2009 to 2010.

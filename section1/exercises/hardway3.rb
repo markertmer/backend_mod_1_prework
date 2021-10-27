@@ -22,3 +22,15 @@ puts "How about some more."
 puts "Is it greater? #{5 > -2}"
 puts "Is it greater or equal? #{5 >= -2}"
 puts "Is it less or equal? #{5 <= -2}"
+
+##################### SCRATCH WORK ######################
+# puts "I have 56 apples."
+# puts "I have 17 oranges."
+#
+# puts "How many pieces of fruit do I have?"
+#
+# puts 56 + 17
+#
+# puts "I have two friends. How many pieces of fruit do we each get?"
+#
+# puts "%.3f" % (73 / 3)

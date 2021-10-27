@@ -44,12 +44,11 @@ p number_of_pets
 
 # IN WORDS:
 # How did you decide to use the data type you did for each of the three variables above?
-
 # Explain.
 
-# I chose a string for `first_name` because any person's name can be any combination of letters.
-# I chose a boolean for `is_hungry` because you're either hungry or not, so it's either true or false that someone is hungry.
-# I chose an integer for `number_of_pets` because you can only have a whole number of pets.
+   # I chose a string for `first_name` because any person's name can be any combination of letters.
+   # I chose a boolean for `is_hungry` because you're either hungry or not, so it's either true or false that someone is hungry.
+   # I chose an integer for `number_of_pets` because you can only have a whole number of pets.
 
 # YOU DO:
 # Re-assign the values to the three variables from the previous challenge to different values (but same data type).
@@ -75,6 +74,6 @@ p healthy_snacks + junk_food_snacks
 #-------------------
 
 # Did you run this file in your terminal to make sure everything printed out to the terminal
-  # as you would expect?
+# as you would expect?
 
-# Yep!
+  # Yep!

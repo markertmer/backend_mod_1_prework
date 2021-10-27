@@ -48,6 +48,10 @@ concatenate("Blisters","are known to be unpleasant.")
 # Naming is notoriously hard in programming. It is a skill to name a variable or function concisely enough that it is reasonable to type, but descriptive enough that others can infer the meaning.
 
 # Look at the code you wrote for the previous YOU DO🎈 - what did you name the function, and why?
-# What did you name each parameter, and why?
+   # I called it `concatenate`, because that's what it does.
 
-# EXPLAIN: I tried to name the function based on what it did, like "multiply" or "concatenate". And then the parameters were also named to describe what they are holding a place for: "num1" and "num2" for numbers, and  "subject" and "predicate" for the two parts of the sentence to be combined.
+# What did you name each parameter, and why?
+   # I called them `subject` and `predicate`, because those are the two precise parts of a sentence I wanted my function to combine.
+
+# EXPLAIN:
+   #I try to name my functions based on what they do, like "multiply" or "concatenate". And then the parameters were also named to describe what they are holding a place for: "num1" and "num2" for numbers, and  "subject" and "predicate" for the two parts of the sentence to be combined.

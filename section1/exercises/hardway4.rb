@@ -22,6 +22,16 @@ puts "We can transport #{carpool_capacity} people today."
 puts "We have #{passengers} to carpool today."
 puts "We need to put about #{average_passengers_per_car} in each car."
 
-#study drill answers:
+################ STUDY DRILL ANSWERS #####################
 #0: undefined local variable and NameError suggest that there may be a typo in naming the variable initially and calling on in later.
 #1: leaving the decimal off of the space_in_a_car variable means that the decimal will be left off of output of the calculation of the carpool_capacity, so it shows 120 instead of 120.0
+
+############### SCRATCH WORK ########################
+# x = 50
+# y = 99
+# z = 2.3
+#
+# puts x * y
+# puts x * z
+# puts y / x
+# puts "%.1f" % (y / x)

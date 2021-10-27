@@ -39,7 +39,7 @@ e = "a string with a right side."
 #print string made up of two variables
 puts w + e
 
-#Study Drill answers
-#3 there are four places where a string is put inside another string, unless you're also counting the 'puts' commands that print the strings inside of the strings.
-#4 w + e prints string w and then string e right after it.
-#5 changing to single quotes causes problems because it interferes with apostrophes within a string and also makes it so the octothorpes that recall a variable comment out everything that follows on that line.
+############################# STUDY DRILL ANSWERS ###################
+#3: there are four places where a string is put inside another string, unless you're also counting the 'puts' commands that print the strings inside of the strings.
+#4: w + e prints string w and then string e right after it.
+#5: changing to single quotes causes problems because it interferes with apostrophes within a string and also makes it so the octothorpes that recall a variable comment out everything that follows on that line.

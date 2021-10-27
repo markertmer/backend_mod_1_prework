@@ -41,6 +41,5 @@ else
   puts "Fine, let's stay home then."
 end
 
-# STUDY DRILL ANSWERS
+##################### STUDY DRILL ANSWER ######################
 # 1. `elsif` follows the code block of the initial `if` statement. If the first conditional is not met, then `elsif` can designate a "backup" command. `else` is then used to follow all `elsif` code blocks to catch any cases that haven't already met any of the previous conditionals.
-# 2.
